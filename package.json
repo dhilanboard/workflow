@@ -6,5 +6,12 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Biswajeet Jena"
+  "author": "Biswajeet Jena",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "gulp-util": "^3.0.8"
+  }
 }
